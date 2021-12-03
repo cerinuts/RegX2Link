@@ -1,0 +1,19 @@
+{
+    "id": "35858014-324e-4d47-aff8-c0f9730bb98d",
+    "version": "1.0.0",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "regx2link.png",
+    "author": {
+        "name": "Ceriath",
+        "homepage": "https://cerinuts.io",
+        "support": "https://github.com/cerinuts/regx2link/issues"
+    },
+    "name": "RegX2Link",
+    "nameSlug": "regex-to-link",
+    "classFile": "RegX2LinkApp.ts",
+    "description": "Parse and expand links based on regular expressions",
+    "implements": [
+        "IPreMessageSentModify",
+        "IPreMessageUpdatedModify"
+    ]
+}
