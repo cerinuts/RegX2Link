@@ -1,0 +1,6 @@
+{
+    "Config_YAML": "YAML Configuration",
+    "Config_YAML_Descriptor": "Provide the configuration for Regx2Link in yaml Syntax. See https://github.com/cerinuts/RegX2Link/blob/main/README.md for examples",
+    "Max_Search_Attempts": "Maximum Search Attempts",
+    "Max_Search_Attempts_Description": "Defines the maximum number of issue search attempts"
+}

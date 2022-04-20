@@ -1,7 +1,6 @@
 import {
     IAppAccessors,
     IConfigurationExtend,
-    IConfigurationModify,
     IEnvironmentRead,
     IHttp,
     ILogger,

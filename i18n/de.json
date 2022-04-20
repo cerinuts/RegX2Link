@@ -1,0 +1,6 @@
+{
+    "Config_YAML": "YAML Konfiguration",
+    "Config_YAML_Descriptor": "Die Konfiguration in YAML Syntax. Für Beispiele siehe https://github.com/cerinuts/RegX2Link/blob/main/README.md (englisch)",
+    "Max_Search_Attempts": "Maximale Anzahl Regex-Match-Versuchen",
+    "Max_Search_Attempts_Description": "Definiert die maximale Anzahl von Regex-Match-Versuchen"
+}
